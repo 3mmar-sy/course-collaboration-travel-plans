@@ -38,6 +38,11 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    transition:  0.5s;
+}
+
+.destination:hover {
+	border-radius: 10px;
 }
 
 .destination:hover h2 {
